@@ -1,0 +1,21 @@
+body {
+  background-color: #212529;
+  color: #ced4da;
+  font-family: monospace;
+  font-size: 150%;
+  line-height: 1.4;
+  margin: 5% 20%;
+}
+
+p {
+  text-indent: 5%;
+}
+
+a {
+  color: #6c757d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #495057;
+}
