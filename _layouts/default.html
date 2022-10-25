@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/style.css">
+    <meta charset="utf-8">
+    <title>{{ page.title | downcase }}</title>
+  </head>
+  <body>
+    {{ content }}
+    <hr>
+    {% include navigation.html %}
+    <h5>{{ site.description | lowercase }}</h5>
+  </body>
+</html>
