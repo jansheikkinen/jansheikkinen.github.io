@@ -17,9 +17,9 @@ in addition to programming languages, i also like "actual"\* languages, and
 linguistics as a whole
 
 i've been involved in the creation of constructed languages, often called
-"conlangs" off-and-on since middle school. my current conlang is a fluid-S
+"conlangs", off-and-on since middle school. my current conlang is a fluid-S
 active-stative polysynthetic conlang primarily inspired by Yup'ik, Saanich, and
-Navajo.
+Navajo
 
 unfortunately, resources on polysynthetic languages are generally limited to
 journals locked behind paywalls, or 500+ page grammar documentation on a
@@ -28,7 +28,10 @@ polysynthesis looks like across many languages in any reasonable amount of time.
 as i'll have to wade through grammars of multiple languages myself, i figured
 that i would at least make it easier for people who come <i>after</i> me by
 sharing my findings in in-depth yet easy-to-read posts on specific features,
-using multiple languages as reference.
+using multiple languages as reference
+
+along with this site, i've left some helpful links to third-parties that have
+information i found useful in <a href="/resources">resources</a>
 
 
 # cool links
@@ -39,8 +42,6 @@ twitter: <a href="https://twitter.com/{{ site.twitter_username }}">
 github: <a href="https://github.com/{{ site.github_username }}">
           {{ site.github_username }}
         </a>
-
-helpful resources: <a href="resources">resources</a>
 
 
 # footnote
