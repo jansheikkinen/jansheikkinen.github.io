@@ -3,6 +3,7 @@ body {
   color: #ced4da;
   font-family: monospace;
   font-size: 150%;
+  font-weight: normal;
   line-height: 1.4;
   margin: 5% 20%;
 }
