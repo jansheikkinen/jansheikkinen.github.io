@@ -4,35 +4,21 @@ title: about
 ---
 
 # about
-i program, mainly in C and Lua
 
-i'm making my own hobby programming language called TriniC.
-it's an explicitly and statically typed low-level programming language. using
-it is meant to feel somewhat like using C, but has improved macros and safety
-features
+i'm jans heikkinen and i'm a programming and linguistics enthusiast. i may be
+referred to with whichever pronouns you find most fitting.
 
+my main area of interest in programming is in programming language development.
+i'm currently developing a language called trinic a compiled low-level language
+which i plan to use in my other area of interest: os development.
 
-<br>
-in addition to programming languages, i also like "actual"\* languages, and
-linguistics as a whole
+when it comes to linguistics, i'm predominantly involved in the creation of
+conlangs. expect many blog posts to be conlanger-oriented and generally about
+polysynthesis specifically.
 
-i've been involved in the creation of constructed languages, often called
-"conlangs", off-and-on since middle school. my current conlang is a fluid-S
-active-stative polysynthetic conlang primarily inspired by Yup'ik, Saanich, and
-Navajo
-
-unfortunately, resources on polysynthetic languages are generally limited to
-journals locked behind paywalls, or 500+ page grammar documentation on a
-specific language, which makes it incredibly hard to get a good idea of what
-polysynthesis looks like across many languages in any reasonable amount of time.
-as i'll have to wade through grammars of multiple languages myself, i figured
-that i would at least make it easier for people who come <i>after</i> me by
-sharing my findings in in-depth yet easy-to-read posts on specific features,
-using multiple languages as reference
-
-along with this site, i've left some helpful links to third-parties that have
-information i found useful in <a href="/resources">resources</a>
-
+everything of my own making on this site is in the public domain. use it however
+you see fit, with or without credit. please message me if anything on this site
+is incorrect.
 
 # cool links
 twitter: <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -42,9 +28,3 @@ twitter: <a href="https://twitter.com/{{ site.twitter_username }}">
 github: <a href="https://github.com/{{ site.github_username }}">
           {{ site.github_username }}
         </a>
-
-
-# footnote
-\* programming languages exhibit many features that so-called "real" languages
-do, despite appearing radically different, and thus should be considered just
-as "real" as languages like English or Japanese

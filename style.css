@@ -12,6 +12,10 @@ hr {
   border: 1px solid #6c757d;
 }
 
+h1, h2 {
+  font-size: 150%;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }

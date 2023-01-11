@@ -4,10 +4,13 @@ author: jans heikkinen
 email: jansheikkinen@mail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
-  all of my content on this site is licensed under CC0<br>
-  other people's work, when used, <i>should</i> be cited<br>
-  if anything on this site is incorrect, please
-  <a href="mailto:jansheikkinen@mail.com">contact me</a>
+  everything of my own making is licensed under
+  <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+    CC0
+  </a><br>
+  please contact me
+  <a href="mailto:jansheikkinen@mail.com">here</a>
+  for feedback or corrections
 
 
 twitter_username: jansheikkinen
